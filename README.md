@@ -5,7 +5,7 @@ OfPrintSing
 
 ![Screenshot](https://github.com/crecord/OfPrintSing/blob/master/receipt.png)
 
-![Screenshot](https://github.com/crecord/OfPrintSing/blob/master/photoProcess.JPG)
+![Screenshot](https://github.com/crecord/OfPrintSing/blob/master/photoProcess.jpg)
 
 Description
 -----------
